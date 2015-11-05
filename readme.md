@@ -1,4 +1,5 @@
-[![Bare Conductive](https://www.dropbox.com/s/7qmvpvst3kal3qv/LOGO_256x106.png?dl=1)](http://www.bareconductive.com/)
+[![Bare Conductive](http://bareconductive.com/assets/images/LOGO_256x106.png)](http://www.bareconductive.com/)
+
 # Bare Conductive Touch Board Driver
 This is the signed Windows driver for the [Bare Conductive Touch Board](http://www.bareconductive.com/touch-board).
 
